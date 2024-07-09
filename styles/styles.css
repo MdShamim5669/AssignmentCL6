@@ -42,6 +42,7 @@
     font-size: 35px;
     font-weight: 700;
     color: #181818;
+    text-align: center;
 }
 
 .section-description {
@@ -165,7 +166,7 @@ main section{
     color: #757575;
 }
 .resume{
-    text-align: center;
+    /* text-align: center; */
 }
 .resume hr{
     margin: 30px 5px;
