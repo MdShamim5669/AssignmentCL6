@@ -164,6 +164,9 @@ main section{
 .experienxe-description, .experience-sub-title{
     color: #757575;
 }
+.resume{
+    text-align: center;
+}
 .resume hr{
     margin: 30px 5px;
 }
